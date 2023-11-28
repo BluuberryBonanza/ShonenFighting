@@ -10,8 +10,8 @@ from bluuberrylibrary.utils.debug.bb_injection_utils import BBInjectionUtils
 from bluuberrylibrary.utils.instances.bb_statistic_utils import BBStatisticUtils
 from event_testing.results import TestResult
 from event_testing.statistic_tests import RelativeStatTest
-from shoninfighting.attributes.enums.attribute_types import SFAttributeType
-from shoninfighting.mod_identity import ModIdentity
+from shonenfighting.attributes.enums.attribute_types import SFAttributeType
+from shonenfighting.mod_identity import ModIdentity
 from sims4.math import Threshold, Operator
 
 log = BBLogRegistry().register_log(ModIdentity(), 'sf_fitness_override')

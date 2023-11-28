@@ -10,8 +10,8 @@ from bluuberrylibrary.utils.sims.bb_sim_utils import BBSimUtils
 from interactions import ParticipantType
 from interactions.utils.loot import LootActions, LootActionVariant
 from interactions.utils.loot_basic_op import BaseTargetedLootOperation
-from shoninfighting.attributes.utils.sf_attribute_utils import SFAttributeUtils
-from shoninfighting.mod_identity import ModIdentity
+from shonenfighting.attributes.utils.sf_attribute_utils import SFAttributeUtils
+from shonenfighting.mod_identity import ModIdentity
 from sims4.tuning.tunable import TunableList, TunableEnumEntry
 
 log = BBLogRegistry().register_log(ModIdentity(), 'sf_loot_actions')

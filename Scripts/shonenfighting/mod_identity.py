@@ -13,7 +13,7 @@ class ModIdentity(BBModIdentity):
 
     @property
     def mod_name(self) -> str:
-        return 'ShoninFighting'
+        return 'ShonenFighting'
 
     @property
     def mod_author(self) -> str:
@@ -21,7 +21,7 @@ class ModIdentity(BBModIdentity):
 
     @property
     def module_namespace(self) -> str:
-        return 'shoninfighting'
+        return 'shonenfighting'
 
     @property
     def script_file_path(self) -> str:

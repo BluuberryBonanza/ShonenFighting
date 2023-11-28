@@ -4,9 +4,9 @@ from bluuberrylibrary.dialogs.notifications.bb_notification import BBNotificatio
 from bluuberrylibrary.utils.sims.bb_sim_statistic_utils import BBSimStatisticUtils
 from bluuberrylibrary.utils.text.bb_localization_utils import BBLocalizationUtils
 from bluuberrylibrary.utils.text.bb_localized_string_data import BBLocalizedStringData
-from shoninfighting.attributes.enums.attribute_types import SFAttributeType
-from shoninfighting.attributes.enums.string_ids import SFStringId
-from shoninfighting.mod_identity import ModIdentity
+from shonenfighting.attributes.enums.attribute_types import SFAttributeType
+from shonenfighting.attributes.enums.string_ids import SFStringId
+from shonenfighting.mod_identity import ModIdentity
 from sims.sim_info import SimInfo
 from sims4.localization import LocalizationHelperTuning
 

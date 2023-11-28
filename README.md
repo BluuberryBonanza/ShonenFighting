@@ -1,2 +1,2 @@
-# Shonin Fighting
+# Shonen Fighting
 An overhaul for the base game fighting System.

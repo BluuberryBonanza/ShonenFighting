@@ -12,9 +12,9 @@ from bluuberrylibrary.events.event_dispatchers.interaction.events.bb_on_interact
 from bluuberrylibrary.events.event_handling.bb_event_handler_registry import BBEventHandlerRegistry
 from bluuberrylibrary.logs.bb_log_registry import BBLogRegistry
 from bluuberrylibrary.utils.instances.bb_interaction_utils import BBInteractionUtils
-from shoninfighting.attributes.enums.attribute_types import SFAttributeType
-from shoninfighting.attributes.utils.sf_attribute_utils import SFAttributeUtils
-from shoninfighting.mod_identity import ModIdentity
+from shonenfighting.attributes.enums.attribute_types import SFAttributeType
+from shonenfighting.attributes.utils.sf_attribute_utils import SFAttributeUtils
+from shonenfighting.mod_identity import ModIdentity
 
 log = BBLogRegistry().register_log(ModIdentity(), 'sf_increase_attributes')
 # log.enable()

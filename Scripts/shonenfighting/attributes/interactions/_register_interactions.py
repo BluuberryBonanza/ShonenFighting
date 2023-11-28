@@ -9,7 +9,7 @@ from typing import Tuple
 
 from bluuberrylibrary.interactions.registration.bb_interaction_registry import BBInteractionRegistry
 from bluuberrylibrary.interactions.registration.handlers.bb_sim_interaction_handler import BBSimInteractionHandler
-from shoninfighting.attributes.enums.interaction_ids import SFInteractionId
+from shonenfighting.attributes.enums.interaction_ids import SFInteractionId
 
 
 @BBInteractionRegistry.register()

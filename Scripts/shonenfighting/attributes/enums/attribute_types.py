@@ -7,7 +7,7 @@ Copyright (c) BLUUBERRYBONANZA
 """
 
 from bluuberrylibrary.enums.classes.bb_int import BBInt
-from shoninfighting.attributes.enums.statistic_ids import SFStatisticId
+from shonenfighting.attributes.enums.statistic_ids import SFStatisticId
 
 
 class SFAttributeType(BBInt):
